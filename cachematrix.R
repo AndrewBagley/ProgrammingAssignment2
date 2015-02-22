@@ -1,4 +1,4 @@
-## https://github.com/AndrewBagley/ProgrammingAssignment2.git
+## https://github.com/AndrewBagley/ProgrammingAssignment2/tree/Edit
 ## commit SHA-1 hash identifier: 9b6e3bfc2e1e55df856ade305bb4d7aac9d185c7
 
 ##Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix rather than compute it repeatedly. 
